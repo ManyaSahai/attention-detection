@@ -7,7 +7,8 @@ pandas>=2.0.0
 
 # Optional dependencies for enhanced features
 plotly>=5.15.0
-gaze-tracking>=0.2.3
+gaze-tracking==0.0.1
+
 
 # Additional OpenCV dependencies
 opencv-contrib-python>=4.8.0
