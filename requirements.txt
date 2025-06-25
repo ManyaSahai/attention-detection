@@ -21,3 +21,4 @@ scipy>=1.10.0
 
 # Threading and async support
 asyncio-mqtt>=0.13.0
+
