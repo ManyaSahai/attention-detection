@@ -1,0 +1,23 @@
+
+# Core dependencies (required)
+streamlit>=1.28.0
+opencv-python>=4.8.0
+numpy>=1.24.0
+pandas>=2.0.0
+
+# Optional dependencies for enhanced features
+plotly>=5.15.0
+gaze-tracking>=0.2.3
+
+# Additional OpenCV dependencies
+opencv-contrib-python>=4.8.0
+
+# For better performance and compatibility
+Pillow>=9.5.0
+matplotlib>=3.7.0
+
+# Math and scientific computing
+scipy>=1.10.0
+
+# Threading and async support
+asyncio-mqtt>=0.13.0
